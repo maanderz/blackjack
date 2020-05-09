@@ -1,2 +1,0 @@
-# blackjack
-Created with CodeSandbox
